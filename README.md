@@ -1,6 +1,6 @@
 # Atividade - Inteligência Artificial: Perceptron e seus usos cotidianos
 
-## Exercício 1 - Prática de Inteligência Artificial: Usando o Perceptron para Decidir se Devemos Levar Guarda-Chuva
+### Exercício 1 - Prática de Inteligência Artificial: Usando o Perceptron para Decidir se Devemos Levar Guarda-Chuva
 
 ### Contexto da Atividade 1
 
